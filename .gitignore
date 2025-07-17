@@ -1,0 +1,11 @@
+node_modules
+public
+src
+eslint.config.js
+index.html
+package-lock.json
+package.json
+postcss.config.cjs
+README.md
+tailwind.config.js
+vite.config.js
